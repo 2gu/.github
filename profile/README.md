@@ -1,12 +1,34 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
+I'm Gurel Ben Shabat, a 29 year old software developer from Israel.
 
-**Here are some ideas to get you started:**
+- 👨‍💻 All of my projects are available on [my GitHub profile](http://github.com/gurelbs)
+- 📫 How to reach me: 2@gure.li
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love math and physics
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### My GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gurelbs)](https://github.com/gurelbs/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gurelbs)](https://github.com/gurelbs/github-readme-stats)
+
+### Let's Connect
+
+- [My website](https://gure.li)
+- [LinkedIn](https://linkedin.com/in/gurelbs) 
+- [Twitter](https://twitter.com/gurelbs)
+
+### What I Use
+- **OS:** Windows 11
+- **Terminal:** [Hyper](https://hyper.is)
+- **Browser:** [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+- **Design:** SCSS from scratch
+- **Frameworks:**
+  - Backend: [NestJS](https://nestjs.com/)
+  - Frontend: [Angular](https://angular.io/)
+- **Favorite NPM Package:** [Puppeteer](https://github.com/puppeteer/puppeteer) for browser automation
+
+### Support
+
+If you find this project helpful, please consider [supporting me](https://github.com/sponsors/gurelbs) to continue developing and maintaining it.
