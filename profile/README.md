@@ -3,9 +3,9 @@
 I'm Gurel Ben Shabat, a 29 year old software developer from Israel.
 
 - 👨‍💻 All of my projects are available on [my GitHub profile](http://github.com/gurelbs)
-- 📫 How to reach me: 2@gure.li
+- 📫 How to reach me: gurel@minds.software | 4gurel@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love math and physics
+- ⚡ Fun fact: I love to use mt brainwave to controll IOT devices 🧠🔌💻 
 
 ### My GitHub Stats
 
@@ -16,6 +16,7 @@ I'm Gurel Ben Shabat, a 29 year old software developer from Israel.
 ### Let's Connect
 
 - [My website](https://gure.li)
+- [My Startup Company](https://minds.software)
 - [LinkedIn](https://linkedin.com/in/gurelbs) 
 - [Twitter](https://twitter.com/gurelbs)
 
